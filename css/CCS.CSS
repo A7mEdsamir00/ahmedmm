@@ -2,8 +2,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Arial, Helvetica, sans-serif;
-  scroll-behavior: smooth !important;
+
+
 }
 
 header{
@@ -85,9 +85,13 @@ margin: auto;
 } 
 .aa{
 border-radius: 12px ;
-box-shadow: #000000 10px ;
-margin:0px  10px;
+box-shadow:  #000000  .5px .5px 10px  ;
+margin-right: 10px ; 
+padding: 10px;
+ z-index: 1; 
+
 }
+
 .readMore{
   color: #fff;
   width: 150px;
